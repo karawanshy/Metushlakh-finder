@@ -1,4 +1,4 @@
-# Metushlakh-finder
+# MetushlakhFinder
 
 Biological Computation - 20581
 
