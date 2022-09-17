@@ -1,2 +1,6 @@
 # Metushlakh-finder
-A Genetic Algorithm for finding special configurations in game of life
+
+Biological Computation - 20581
+
+A Genetic Algorithm for finding configurations that gets really big in thier life time but at some point become static (still life) or periodic.
+
